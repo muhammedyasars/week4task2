@@ -1,0 +1,6 @@
+@ADO_task_HostAddress = http://localhost:5089
+
+GET {{ADO_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
